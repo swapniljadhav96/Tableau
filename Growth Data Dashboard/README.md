@@ -1,2 +1,12 @@
-![](https://github.com/swapniljadhav96/Tableau/blob/main/Risky%20Business%20Insurance%20Dashboard/Dashboard.png)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0001.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0002.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0003.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0004.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0005.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0006.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0007.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0008.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0009.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0010.jpg)
+![](https://github.com/swapniljadhav96/Tableau/blob/main/Growth%20Data%20Dashboard/images/Dashboard/Growth%20Data%20Dashboard_page-0011.jpg)
 
