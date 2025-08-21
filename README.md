@@ -16,7 +16,7 @@ Hi, I’m **Swapnil Jadhav** ✨
 
 ## 🔗 Tableau Public Profile  
 🌐 Explore all my dashboards here 👉 <a href="https://public.tableau.com/app/profile/swapniljadhav96" target="_blank">
-  <img src="https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png" alt="Tableau" width="100" height="50">
+  <img src="https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png" alt="Tableau" width="100" height="100">
 </a>
 
 
