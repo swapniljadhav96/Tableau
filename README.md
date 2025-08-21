@@ -59,6 +59,26 @@ Each dashboard has its **own README file** with details (objective, dataset, ins
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](#)
 
 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" alt="Tableau" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" alt="Power BI" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" alt="Pandas" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/numpy.svg" alt="NumPy" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/matplotlib.svg" alt="Matplotlib" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/seaborn.svg" alt="Seaborn" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" alt="Excel" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikitlearn.svg" alt="scikit-learn" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tensorflow.svg" alt="TensorFlow" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" alt="Canva" width="40" />
+</p>
+
+
+
 ---
 
 ## 🏆 Awards & Achievements  
