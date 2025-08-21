@@ -43,11 +43,21 @@ Each dashboard has its **own README file** with details (objective, dataset, ins
 
 ## 🛠️ Tech Stack  
 
-- **Visualization Tools**: Tableau, Power BI  
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Databases**: SQL, MySQL  
-- **Machine Learning**: Scikit-learn, TensorFlow (basic models)  
-- **Version Control**: Git & GitHub  
+[![Tableau](https://img.shields.io/badge/Tableau-3182CE?logo=tableau&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](#)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](#)
+
 
 ---
 
