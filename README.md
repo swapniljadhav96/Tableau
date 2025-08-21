@@ -1,16 +1,7 @@
-# 📊 Business Intelligence & Data Science Dashboards  
+# 📊 Business Intelligence & Tableau Dashboards  
 
-Welcome to my **BI & Data Science Dashboard Repository** 🎯  
+Welcome to my **BI & Tableau Dashboard Repository** 🎯  
 This repository showcases my work as a **BI Analyst & Data Enthusiast**, where I combine **data analysis, visualization, and storytelling** to uncover insights and drive decisions.  
-
----
-
-## 👤 About Me  
-Hi, I’m **Swapnil Jadhav** ✨  
-- 🎓 Final-year B.Tech CSE Student  
-- 💡 Passionate about **Data Science, BI, ML & AI**  
-- 📊 Skilled in **Tableau, Python, SQL, NLP, and Machine Learning**  
-- 🔍 Always exploring data to solve real-world problems  
 
 ---
 
