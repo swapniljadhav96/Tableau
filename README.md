@@ -20,8 +20,6 @@ Hi, I’m **Swapnil Jadhav** ✨
 </a>
 
 
-[![Tableau](https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png)](https://public.tableau.com/app/profile/swapniljadhav96)
-
 ---
 
 ## 📂 Repository Content  
