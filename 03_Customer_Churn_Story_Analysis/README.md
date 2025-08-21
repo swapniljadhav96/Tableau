@@ -78,7 +78,6 @@ The goal is to help businesses **reduce churn, improve retention, and maximize c
 ---
 
 ## 🖼️ Dashboard Preview  
-
 ![](https://github.com/swapniljadhav96/Tableau/blob/main/03_Customer_Churn_Story_Analysis/images/Customer%20Churn%20Story_page-0001.jpg)
 ![](https://github.com/swapniljadhav96/Tableau/blob/main/03_Customer_Churn_Story_Analysis/images/Customer%20Churn%20Story_page-0002.jpg)
 ![](https://github.com/swapniljadhav96/Tableau/blob/main/03_Customer_Churn_Story_Analysis/images/Customer%20Churn%20Story_page-0003.jpg)
