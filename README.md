@@ -19,19 +19,30 @@ This repository showcases my work as a **BI Analyst & Data Enthusiast**, where I
 ### 📌 Dashboards List  
 Each dashboard has its **own README file** with details (objective, dataset, insights, and visuals).  
 
-1. 📊 [**Amazon Sales Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/01_Amazon%20Sales%20Dashboard)
+1. [**Amazon Sales Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/01_Amazon%20Sales%20Dashboard)
 
-2. 💰 [**Sales Performance Dashboard**](./dashboards/sales-performance/README.md)  
-   - Insights on revenue, profit trends, and regional sales distribution.  
+2. [**Signup Flow Story Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/02_Signup%20Flow%20Story%20Dashboard)  
+   
 
-3. 🛒 [**E-commerce Customer Analysis**](./dashboards/ecommerce-analysis/README.md)  
-   - Customer behavior, product performance, and retention metrics.  
+3. [**Customer_Churn_Story_Analysis**](https://github.com/swapniljadhav96/Tableau/tree/main/03_Customer_Churn_Story_Analysis)
 
-4. 🏥 [**Healthcare Analytics Dashboard**](./dashboards/healthcare-analytics/README.md)  
-   - Patient records, treatment success rates, and resource allocation.  
+4. [**Customer Engagement Analysis**](https://github.com/swapniljadhav96/Tableau/tree/main/04_Customer%20Engagement%20Analysis)  
 
-5. 🎓 [**Student Admission & Counseling Dashboard**](./dashboards/student-admission/README.md)  
-   - Admission trends, counseling analytics, and student outcomes.  
+5. [**Growth Data Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/05_Growth%20Data%20Dashboard)
+
+6. [**King County House Sales Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/06_King%20County%20House%20Sales%20Dashboard)
+
+7. [**Visualizing UFO Sightings**](https://github.com/swapniljadhav96/Tableau/tree/main/07_Visualizing%20UFO%20Sightings)
+
+8. [**Risky Business Insurance Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/08_Risky%20Business%20Insurance%20Dashboard)
+
+9. [**HR Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/09_HR%20Dashboard)
+
+10. [**AIESL Procurement Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/10_AIESL%20Procurement%20Dashboard)
+
+11. [**Airline Cross Domain Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/11_Airline%20Cross%20Domain%20Dashboard)
+
+12. [**Sales Performance Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/12_Sales%20Performance%20Dashboard)    
 
 ---
 
