@@ -9,7 +9,8 @@ This repository showcases my work as a **BI Analyst & Data Enthusiast**, where I
 <p>
   🌐 Explore all my dashboards here 👉 
   <a href="https://public.tableau.com/app/profile/swapniljadhav96" target="_blank">
-    <img src="https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png" alt="Tableau" width="100" height="50" style="vertical-align:middle;">
+    <img src="https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png" 
+         alt="Tableau" width="100" height="50" style="vertical-align:middle; margin-left:5px;">
   </a>
 </p>
 
