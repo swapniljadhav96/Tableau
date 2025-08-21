@@ -19,8 +19,7 @@ This repository showcases my work as a **BI Analyst & Data Enthusiast**, where I
 ### 📌 Dashboards List  
 Each dashboard has its **own README file** with details (objective, dataset, insights, and visuals).  
 
-1. 📊 [**Employee Status Dashboard**](./dashboards/employee-status/README.md)  
-   - Tracks employee trends (Active, Leave, Voluntary, Terminated, Future Start).  
+1. 📊 [**Amazon Sales Dashboard**](https://github.com/swapniljadhav96/Tableau/tree/main/01_Amazon%20Sales%20Dashboard)
 
 2. 💰 [**Sales Performance Dashboard**](./dashboards/sales-performance/README.md)  
    - Insights on revenue, profit trends, and regional sales distribution.  
