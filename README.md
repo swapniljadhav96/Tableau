@@ -16,6 +16,7 @@ Hi, I’m **Swapnil Jadhav** ✨
 
 ## 🔗 Tableau Public Profile  
 🌐 Explore all my dashboards here 👉 [(https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png)](https://public.tableau.com/)  
+<a href="[https://public.tableau.com/app/profile/swapniljadhav96]" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Ftableau-logo%2F&psig=AOvVaw23HkuYijM9eXtVicnWGUxP&ust=1755852293690000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDR5tjBm48DFQAAAAAdAAAAABAK" alt="sonujadhav_96" height="30" width="40" /></a>
 
 ---
 
