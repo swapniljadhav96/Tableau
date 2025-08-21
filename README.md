@@ -59,15 +59,6 @@ Each dashboard has its **own README file** with details (objective, dataset, ins
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](#)
 
 
-
----
-
-## 🏆 Awards & Achievements  
-- ✅ Tableau & BI Dashboard Projects (Academic + Personal)  
-- ✅ Completed **Full Stack Developer Bootcamp** at GeeksforGeeks  
-- ✅ **Career Essentials in GitHub Professional Certificate**  
-- ✅ Contributed to **AI-powered health monitoring projects**  
-
 ---
 
 ## 📜 Certifications  
