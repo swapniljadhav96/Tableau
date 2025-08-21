@@ -15,8 +15,9 @@ Hi, I’m **Swapnil Jadhav** ✨
 ---
 
 ## 🔗 Tableau Public Profile  
-🌐 Explore all my dashboards here 👉 <a href="[https://public.tableau.com/app/profile/swapniljadhav96]" target="blank"><img align="center" src="https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png" alt="sonujadhav_96" height="30" width="40" /></a>
+🌐 Explore all my dashboards here 👉 <a href="[https://public.tableau.com/app/profile/swapniljadhav96]" target="blank"><img align="center" src="https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png" alt="sonujadhav_96" height="50" width="100" /></a>
 
+![https://public.tableau.com/app/profile/swapniljadhav96](https://github.com/swapniljadhav96/Tableau/blob/main/images/Tableau-Logo.png)
 ---
 
 ## 📂 Repository Content  
