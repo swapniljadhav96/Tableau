@@ -15,7 +15,7 @@ Hi, I’m **Swapnil Jadhav** ✨
 ---
 
 ## 🔗 Tableau Public Profile  
-🌐 Explore all my dashboards here 👉 [**Tableau Public Profile**](https://public.tableau.com/)  
+🌐 Explore all my dashboards here 👉 [(https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png)](https://public.tableau.com/)  
 
 ---
 
