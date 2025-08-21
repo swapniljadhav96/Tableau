@@ -1,4 +1,4 @@
-# 📊 Business Intelligence & Tableau Dashboards  
+# 📊 Business Intelligence Analyst
 
 Welcome to my **BI & Tableau Dashboard Repository** 🎯  
 This repository showcases my work as a **BI Analyst & Data Enthusiast**, where I combine **data analysis, visualization, and storytelling** to uncover insights and drive decisions.  
