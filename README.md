@@ -58,7 +58,6 @@ Each dashboard has its **own README file** with details (objective, dataset, ins
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](#)
 
-
 ---
 
 ## 📜 Certifications  
@@ -66,15 +65,6 @@ Each dashboard has its **own README file** with details (objective, dataset, ins
 - 🐍 Python for Data Science  
 - 🤖 Machine Learning & AI Fundamentals  
 - ☁️ Cloud & Big Data Basics  
-
----
-
-## 📬 Connect with Me  
-
-- 💼 [**LinkedIn**](https://linkedin.com/)  
-- 🐙 [**GitHub**](https://github.com/)  
-- 🧑‍💻 [**GeeksforGeeks**](https://auth.geeksforgeeks.org/user/)  
-- 🏆 [**HackerRank**](https://www.hackerrank.com/)  
 
 ---
 
