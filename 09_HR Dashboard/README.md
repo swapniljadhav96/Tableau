@@ -15,7 +15,7 @@ Provide HR leaders and managers with a **360° view of the workforce** to:
 ## 📂 Dataset
 - [Employee/HR Dataset (All in One)](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)
 
-> **Period:** multi-month snapshot (aggregate)  
+> **Period:** August 2018 to August 2021 
 > **Grain:** employee-level + application-level + training record-level
 
 ---
