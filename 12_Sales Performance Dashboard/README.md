@@ -60,8 +60,8 @@ To create an **interactive Tableau dashboard** that provides insights into:
 ---
 
 ## ⏱️ Time-Based Analysis  
-- **MTD, QTD, YTD, WTD** filters using parameters  
-- Correct handling of **financial years & week starts (Monday)**  
+- **MTD, QTD, YTD, WTD** filters using Dynamic parameters  
+- Correct handling of **financial years (1st April to 31st March) & week starts (Monday)**  
 
 ---
 
