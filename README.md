@@ -48,7 +48,6 @@ Each dashboard has its **own README file** with details (objective, dataset, ins
 ## 🛠️ Tech Stack  
 
 [![Tableau](https://img.shields.io/badge/Tableau-3182CE?logo=tableau&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#)
