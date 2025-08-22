@@ -13,10 +13,7 @@ Provide HR leaders and managers with a **360° view of the workforce** to:
 ---
 
 ## 📂 Dataset
-- **Employee Data:** demographics, department, tenure, performance
-- **Engagement:** survey scores (engagement, satisfaction, work–life balance)
-- **Recruitment:** applications, offers, rejections, salary brackets, qualification
-- **Learning & Development:** program type, trainer, cost, duration, pass rate
+- [Employee/HR Dataset (All in One)](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)
 
 > **Period:** multi-month snapshot (aggregate)  
 > **Grain:** employee-level + application-level + training record-level
