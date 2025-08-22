@@ -70,8 +70,6 @@ Provide HR leaders and managers with a **360° view of the workforce** to:
 
 - Dynamic Parameter : **YTD, QTD, MTD**
 - Global filters: **Department, Country, Gender, Age band, Time**
-- Drill-downs from **org → department → team → employee cohort**
-- Tooltips with **cohort KPIs** and benchmark lines
 - Download **PDF** of selected views (if enabled in BI tool)
 
 ---
